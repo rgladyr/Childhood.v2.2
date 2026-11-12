@@ -84,6 +84,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Childhood.v2
       objectReference: {fileID: 0}
+    - target: {fileID: 5215460979175919591, guid: 92da9fb0fc2bd2649a10375d0ba427fb, type: 3}
+      propertyPath: m_Name
+      value: BenchInRavineRavine.v1.1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

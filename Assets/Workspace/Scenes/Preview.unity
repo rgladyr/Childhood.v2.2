@@ -308,6 +308,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3526200715879292499, guid: 9623145b112bb22408b37d7c89f4ae17, type: 3}
+      propertyPath: m_Name
+      value: BenchInRavineRavine.v1.1
+      objectReference: {fileID: 0}
     - target: {fileID: 6688210106547201698, guid: 9623145b112bb22408b37d7c89f4ae17, type: 3}
       propertyPath: m_Name
       value: Location-Art
@@ -327,6 +331,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1570735572}
   - component: {fileID: 1570735571}
+  - component: {fileID: 1570735573}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -414,6 +419,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1570735573
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1570735570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
