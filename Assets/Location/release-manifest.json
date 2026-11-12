@@ -1,7 +1,7 @@
 {
     "format": 2,
     "package": "com.paperfly.newlocation",
-    "version": "0.1.2",
+    "version": "0.1.1",
     "renderKitVersion": "0.1.0",
     "files": [
         {
@@ -12,7 +12,7 @@
         {
             "path": "Location-Art.prefab",
             "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "hash": "08a79ecd84655362562b8a97769d3734a6438f665eb077b83ec165b71d8e3da2"
+            "hash": "94dc18e2ae3baa91eb61750fc8e93d8f0b89f013116c1b3d838781152d3a339e"
         },
         {
             "path": "Location-Art.prefab.meta",
@@ -127,7 +127,7 @@
         {
             "path": "Models/Childhood.v2.fbx",
             "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
-            "hash": "838ebad1e700600f76f81a8135a1202613746a0983db8e4a6bd79e5c343f9403"
+            "hash": "48927ba17897a675a4c01211083a2ce97082a3afe4d5305f27b9ea1723bdc44d"
         },
         {
             "path": "Models/Childhood.v2.fbx.meta",
@@ -212,7 +212,7 @@
         {
             "path": "package.json",
             "guid": "cd91a13c8bb825248bc05438ce58c75c",
-            "hash": "04696128276e91162eddea3c3ce8702ed6c2dda4c7a1cd22d86e38a4edbb89f0"
+            "hash": "30220bcf7a8f52f7907f525655ed4d6d26e60bf1c3d57dc649d7a52701d8d7eb"
         },
         {
             "path": "package.json.meta",
@@ -259,6 +259,13 @@
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
             "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
+            "type": "Transform",
+            "fileId": 176458181022555831
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
             "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
             "type": "Transform",
             "fileId": 2298773237460507697
@@ -269,6 +276,13 @@
             "path": "Location-Art/Childhood.v2/Border.Road.v1.1",
             "type": "Transform",
             "fileId": 662760972196397976
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/Border.Tree.v1.1",
+            "type": "Transform",
+            "fileId": 6521594572360533163
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
@@ -2156,6 +2170,13 @@
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
             "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
+            "type": "GameObject",
+            "fileId": 3526200715879292499
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
             "path": "Location-Art/Childhood.v2/Ravine.Roots.v2.1",
             "type": "GameObject",
             "fileId": 5224961313323639686
@@ -3692,6 +3713,13 @@
             "path": "Location-Art/Childhood.v2/Tent.Grass.v1.1",
             "type": "GameObject",
             "fileId": 2235230467375967294
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/Border.Tree.v1.1",
+            "type": "GameObject",
+            "fileId": 8749929725015600307
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
@@ -6842,6 +6870,27 @@
             "path": "Location-Art/Childhood.v2/Ravine.Platform.v1.1",
             "type": "MeshCollider",
             "fileId": 4950703174665618091
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
+            "type": "MeshFilter",
+            "fileId": 5614073905337759825
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
+            "type": "MeshRenderer",
+            "fileId": 2508942488112788642
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
+            "type": "MeshCollider",
+            "fileId": 6721589377796713831
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
@@ -11676,6 +11725,27 @@
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
             "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/Border.Tree.v1.1",
+            "type": "MeshFilter",
+            "fileId": 6533104016745837764
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/Border.Tree.v1.1",
+            "type": "MeshRenderer",
+            "fileId": 5802936802958078488
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
+            "path": "Location-Art/Childhood.v2/Border.Tree.v1.1",
+            "type": "MeshCollider",
+            "fileId": 4509739792150189176
+        },
+        {
+            "guid": "9623145b112bb22408b37d7c89f4ae17",
+            "asset": "Location-Art.prefab",
             "path": "Location-Art/Childhood.v2/Road.Curbs.v2.1",
             "type": "MeshFilter",
             "fileId": 538131206704408815
@@ -16261,6 +16331,13 @@
         {
             "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
             "asset": "Models/Childhood.v2.fbx",
+            "path": "Childhood.v2/Border.Tree.v1.1",
+            "type": "Transform",
+            "fileId": -6768974788973177569
+        },
+        {
+            "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
+            "asset": "Models/Childhood.v2.fbx",
             "path": "Childhood.v2/Thuja.Trunk001.v1.15",
             "type": "Transform",
             "fileId": 2467456477339724914
@@ -18903,6 +18980,13 @@
             "path": "Childhood.v2/Streetlight.v1.12",
             "type": "GameObject",
             "fileId": 118865999024031505
+        },
+        {
+            "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
+            "asset": "Models/Childhood.v2.fbx",
+            "path": "Childhood.v2/Border.Tree.v1.1",
+            "type": "GameObject",
+            "fileId": 136058272383253767
         },
         {
             "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
@@ -23814,6 +23898,20 @@
         {
             "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
             "asset": "Models/Childhood.v2.fbx",
+            "path": "Childhood.v2/Border.Tree.v1.1",
+            "type": "MeshCollider",
+            "fileId": -4171654264822053428
+        },
+        {
+            "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
+            "asset": "Models/Childhood.v2.fbx",
+            "path": "Border.Tree.v1.1",
+            "type": "Mesh",
+            "fileId": 4193524862650881752
+        },
+        {
+            "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
+            "asset": "Models/Childhood.v2.fbx",
             "path": "Childhood.v2/Tent.Arc.v4.1",
             "type": "MeshRenderer",
             "fileId": 5061300681785837946
@@ -24997,6 +25095,13 @@
         {
             "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
             "asset": "Models/Childhood.v2.fbx",
+            "path": "Childhood.v2/Border.Tree.v1.1",
+            "type": "MeshRenderer",
+            "fileId": -6339182922043694164
+        },
+        {
+            "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
+            "asset": "Models/Childhood.v2.fbx",
             "path": "Childhood.v2/Monkey.Coverage.v1.1",
             "type": "MeshCollider",
             "fileId": 2882379461003480791
@@ -25588,6 +25693,13 @@
             "path": "Thuja.Trunk001.v1.7",
             "type": "Mesh",
             "fileId": 3516208973312858214
+        },
+        {
+            "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
+            "asset": "Models/Childhood.v2.fbx",
+            "path": "Childhood.v2/Border.Tree.v1.1",
+            "type": "MeshFilter",
+            "fileId": -6763103153541372560
         },
         {
             "guid": "92da9fb0fc2bd2649a10375d0ba427fb",
