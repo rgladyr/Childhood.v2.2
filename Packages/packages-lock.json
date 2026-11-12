@@ -1,11 +1,11 @@
 {
   "dependencies": {
     "com.paperfly.renderkit": {
-      "version": "https://github.com/rgladyr/Render-Kit.git#36cd370e44f04fddbbf15845976c8bd97e6bcfba",
+      "version": "https://github.com/rgladyr/Render-Kit.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "36cd370e44f04fddbbf15845976c8bd97e6bcfba"
+      "hash": "6aa27bae2012e486ebad82704556dc1897cae4a8"
     },
     "com.unity.burst": {
       "version": "1.8.18",
