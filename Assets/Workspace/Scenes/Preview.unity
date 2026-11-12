@@ -308,16 +308,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3526200715879292499, guid: 9623145b112bb22408b37d7c89f4ae17, type: 3}
-      propertyPath: m_Name
-      value: BenchInRavineRavine.v1.1
-      objectReference: {fileID: 0}
     - target: {fileID: 6688210106547201698, guid: 9623145b112bb22408b37d7c89f4ae17, type: 3}
       propertyPath: m_Name
       value: Location-Art
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 3526200715879292499, guid: 9623145b112bb22408b37d7c89f4ae17, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9623145b112bb22408b37d7c89f4ae17, type: 3}

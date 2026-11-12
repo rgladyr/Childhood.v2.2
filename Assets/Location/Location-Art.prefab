@@ -89,7 +89,8 @@ PrefabInstance:
       value: BenchInRavineRavine.v1.1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 5215460979175919591, guid: 92da9fb0fc2bd2649a10375d0ba427fb, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 92da9fb0fc2bd2649a10375d0ba427fb, type: 3}
