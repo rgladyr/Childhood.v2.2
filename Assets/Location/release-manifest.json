@@ -1,7 +1,7 @@
 {
     "format": 2,
     "package": "com.paperfly.newlocation",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "renderKitVersion": "0.1.0",
     "files": [
         {
@@ -12,7 +12,7 @@
         {
             "path": "Location-Art.prefab",
             "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "hash": "94dc18e2ae3baa91eb61750fc8e93d8f0b89f013116c1b3d838781152d3a339e"
+            "hash": "e0532a21fd52a803492afe6420dc1e981262d4d40da7cd2091da1668d5c69bfd"
         },
         {
             "path": "Location-Art.prefab.meta",
@@ -157,7 +157,7 @@
         {
             "path": "Textures/Childhood.v2/Image_0.009.png.meta",
             "guid": "",
-            "hash": "d90786abb1246cec515c661d624b62dbbcfffd777dcc3236cb0c5caf153c1f5c"
+            "hash": "24b86abd39bf9a552d12fc654841b62726c11e36e27db3142069b4a246382b55"
         },
         {
             "path": "Textures/Childhood.v2/LiefSlade_albedo.jpg",
@@ -167,7 +167,7 @@
         {
             "path": "Textures/Childhood.v2/LiefSlade_albedo.jpg.meta",
             "guid": "",
-            "hash": "57f29d0ccce49e2aca6d7fe1c9618fd35f60c1f096c2c2420f267fb60b161bd9"
+            "hash": "3764ec598b1a753d5e29372c74e04a714a953c968da712e9156b6474473eb27c"
         },
         {
             "path": "Textures/Childhood.v2/Monkey.Coverage_color.jpg",
@@ -177,7 +177,7 @@
         {
             "path": "Textures/Childhood.v2/Monkey.Coverage_color.jpg.meta",
             "guid": "",
-            "hash": "89efd9fef284d842aeadae73a5fe95645fd18391bd05a191887c0ebd3aa033fb"
+            "hash": "8ea24368f941aa5ece365428b5d7e599ce929cc4b9c0d4473c54705b60e53f43"
         },
         {
             "path": "Textures/Childhood.v2/Pier.Bridge.v1_LOD1_color1024.jpg",
@@ -187,7 +187,7 @@
         {
             "path": "Textures/Childhood.v2/Pier.Bridge.v1_LOD1_color1024.jpg.meta",
             "guid": "",
-            "hash": "24829643829b158178ec991a963271999cb8850b2c82703c6ef250bd0f668578"
+            "hash": "997cb8322b592fd9113007914fe56a7694a4a66a9fdebde30017c1c4a322af00"
         },
         {
             "path": "Textures/Childhood.v2/Pier.Wall.v1.1_LOD1_color1024.jpg",
@@ -197,7 +197,7 @@
         {
             "path": "Textures/Childhood.v2/Pier.Wall.v1.1_LOD1_color1024.jpg.meta",
             "guid": "",
-            "hash": "8ba5fe518108eb86183a64344214e9f04303e239d379e093b00c68f1316895fe"
+            "hash": "c3016987f3171d185be5d42f8e0c4740d0621f391a8a4cb4c915b1cc02630389"
         },
         {
             "path": "Textures/Childhood.v2/Pier.Wall.v2.1_LOD1_color1024.jpg",
@@ -207,12 +207,12 @@
         {
             "path": "Textures/Childhood.v2/Pier.Wall.v2.1_LOD1_color1024.jpg.meta",
             "guid": "",
-            "hash": "061e9dce15aef5f499910bbf9946ff830206a254e6ad03a3410786c71b44ab5e"
+            "hash": "cb4d2a6b40f8fe4fbc3aea5ded6b95ebc68d1650985f78287a6c85603e450d1d"
         },
         {
             "path": "package.json",
             "guid": "cd91a13c8bb825248bc05438ce58c75c",
-            "hash": "30220bcf7a8f52f7907f525655ed4d6d26e60bf1c3d57dc649d7a52701d8d7eb"
+            "hash": "04696128276e91162eddea3c3ce8702ed6c2dda4c7a1cd22d86e38a4edbb89f0"
         },
         {
             "path": "package.json.meta",
@@ -259,16 +259,9 @@
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
             "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
+            "path": "Location-Art/Childhood.v2/BenchInRavineRavine.v1.1",
             "type": "Transform",
             "fileId": 176458181022555831
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
-            "type": "Transform",
-            "fileId": 2298773237460507697
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
@@ -2170,7 +2163,7 @@
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
             "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
+            "path": "Location-Art/Childhood.v2/BenchInRavineRavine.v1.1",
             "type": "GameObject",
             "fileId": 3526200715879292499
         },
@@ -2866,13 +2859,6 @@
             "path": "Location-Art/Childhood.v2/Streetlight.v1.7",
             "type": "GameObject",
             "fileId": 4811749217563860680
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
-            "type": "GameObject",
-            "fileId": 6314035280755762923
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
@@ -6874,21 +6860,21 @@
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
             "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
+            "path": "Location-Art/Childhood.v2/BenchInRavineRavine.v1.1",
             "type": "MeshFilter",
             "fileId": 5614073905337759825
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
             "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
+            "path": "Location-Art/Childhood.v2/BenchInRavineRavine.v1.1",
             "type": "MeshRenderer",
             "fileId": 2508942488112788642
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
             "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/BenchInRavineRavine",
+            "path": "Location-Art/Childhood.v2/BenchInRavineRavine.v1.1",
             "type": "MeshCollider",
             "fileId": 6721589377796713831
         },
@@ -9964,27 +9950,6 @@
             "path": "Location-Art/Childhood.v2/Pier.Lamp.v1.1",
             "type": "MeshCollider",
             "fileId": 4364491968936498002
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
-            "type": "MeshFilter",
-            "fileId": 9104373685125619655
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
-            "type": "MeshRenderer",
-            "fileId": 6320109056798739873
-        },
-        {
-            "guid": "9623145b112bb22408b37d7c89f4ae17",
-            "asset": "Location-Art.prefab",
-            "path": "Location-Art/Childhood.v2/Border.Land.v1.1",
-            "type": "MeshCollider",
-            "fileId": 2143973266278087356
         },
         {
             "guid": "9623145b112bb22408b37d7c89f4ae17",
